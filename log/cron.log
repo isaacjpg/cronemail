@@ -1,0 +1,312 @@
+
+isaac@smartgraphics.cl
+qflow@qflow.cl
+isaac@smartgraphics.cl
+qflow@qflow.cl
+ERROR: Conecting to Database  2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (99)
+Email sent:  isaac@smartgraphics.cl   13/12/2023 00:00:00
+Email sent:  qflow@qflow.cl   13/12/2023 00:00:00
+Email sent:  isaac@smartgraphics.cl   13/12/2023 00:00:00
+Email sent:  qflow@qflow.cl   13/12/2023 00:00:00
+INFO: Executing script --> 15/12/2023 00:00:00
+OK:  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK: Updating status  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK:  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+INFO: End script --> 15/12/2023 00:00:00
+INFO: Executing script --> 15/12/2023 00:00:00
+OK:  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK: Updating status  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK:  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+INFO: End script --> 15/12/2023 00:00:00
+INFO: Executing script --> 15/12/2023 00:00:00
+OK:  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK: Updating status  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK:  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+INFO: End script --> 15/12/2023 00:00:00
+INFO: Executing script --> 15/12/2023 00:00:00
+OK:  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK: Updating status  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK:  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+INFO: End script --> 15/12/2023 00:00:00
+INFO: Executing script --> 15/12/2023 00:00:00
+OK:  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK: Updating status  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK:  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+INFO: End script --> 15/12/2023 00:00:00
+INFO: Executing script --> 15/12/2023 00:00:00
+OK:  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK: Updating status  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK:  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+INFO: End script --> 15/12/2023 00:00:00
+INFO: Executing script --> 15/12/2023 00:00:00
+OK:  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK:  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK: Updating status  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 00:00:00
+OK:  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+OK: Updating status  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 00:00:00
+INFO: End script --> 15/12/2023 00:00:00
+INFO: Executing script --> 15/12/2023 22:01:01
+OK:  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:01:05
+OK: Updating status  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:01:05
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:01:06
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:01:06
+OK:  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 22:01:07
+OK: Updating status  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 22:01:07
+OK:  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:01:09
+OK: Updating status  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:01:09
+INFO: End script --> 15/12/2023 22:01:09
+INFO: Executing script --> 15/12/2023 22:02:01
+OK:  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:02:04
+OK: Updating status  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:02:04
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:02:06
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:02:06
+OK:  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 22:02:07
+OK: Updating status  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 22:02:07
+OK:  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:02:09
+OK: Updating status  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:02:09
+INFO: End script --> 15/12/2023 22:02:09
+INFO: Executing script --> 15/12/2023 22:03:01
+OK:  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:03:04
+OK: Updating status  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:03:04
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:03:05
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:03:05
+OK:  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 22:03:06
+OK: Updating status  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 22:03:06
+OK:  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:03:07
+OK: Updating status  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:03:07
+INFO: End script --> 15/12/2023 22:03:08
+INFO: Executing script --> 15/12/2023 22:04:01
+OK:  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:04:04
+OK: Updating status  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:04:04
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:04:05
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:04:05
+OK:  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 22:04:06
+OK: Updating status  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 22:04:06
+OK:  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:04:08
+OK: Updating status  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:04:08
+INFO: End script --> 15/12/2023 22:04:08
+INFO: Executing script --> 15/12/2023 22:07:01
+OK:  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:07:04
+OK: Updating status  OT 207047   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:07:04
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:07:05
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:07:05
+OK:  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 22:07:06
+OK: Updating status  OT 207044   ['frunge@gmail.com', 'isaacjpg@gmail.com']   15/12/2023 22:07:06
+OK:  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:07:08
+OK: Updating status  OT 206903   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:07:08
+INFO: End script --> 15/12/2023 22:07:08
+INFO: Executing script --> 15/12/2023 22:08:01
+INFO: End script --> 15/12/2023 22:08:03
+INFO: Executing script --> 15/12/2023 22:09:01
+INFO: End script --> 15/12/2023 22:09:03
+INFO: Executing script --> 15/12/2023 22:10:01
+INFO: End script --> 15/12/2023 22:10:04
+INFO: Executing script --> 15/12/2023 22:11:01
+INFO: End script --> 15/12/2023 22:11:03
+INFO: Executing script --> 15/12/2023 22:12:01
+OK:  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:12:04
+OK: Updating status  OT 207048   ['frunge@gmail.com', 'frunge@runing-ti.cl']   15/12/2023 22:12:04
+INFO: End script --> 15/12/2023 22:12:04
+INFO: Executing script --> 15/12/2023 22:13:02
+INFO: End script --> 15/12/2023 22:13:04
+INFO: Executing script --> 15/12/2023 22:14:01
+INFO: End script --> 15/12/2023 22:14:03
+INFO: Executing script --> 15/12/2023 22:15:01
+INFO: End script --> 15/12/2023 22:15:04
+INFO: Executing script --> 15/12/2023 22:16:01
+INFO: End script --> 15/12/2023 22:16:06
+INFO: Executing script --> 15/12/2023 22:17:01
+INFO: End script --> 15/12/2023 22:17:03
+INFO: Executing script --> 15/12/2023 22:18:01
+INFO: End script --> 15/12/2023 22:18:03
+INFO: Executing script --> 15/12/2023 22:19:01
+INFO: End script --> 15/12/2023 22:19:04
+INFO: Executing script --> 15/12/2023 22:20:01
+INFO: End script --> 15/12/2023 22:20:03
+INFO: Executing script --> 15/12/2023 22:21:01
+INFO: End script --> 15/12/2023 22:21:03
+INFO: Executing script --> 15/12/2023 22:22:01
+INFO: End script --> 15/12/2023 22:22:04
+INFO: Executing script --> 15/12/2023 22:23:01
+INFO: End script --> 15/12/2023 22:23:03
+INFO: Executing script --> 15/12/2023 22:24:01
+INFO: End script --> 15/12/2023 22:24:03
+INFO: Executing script --> 15/12/2023 22:25:01
+INFO: End script --> 15/12/2023 22:25:03
+INFO: Executing script --> 15/12/2023 22:26:02
+INFO: End script --> 15/12/2023 22:26:04
+INFO: Executing script --> 15/12/2023 22:27:01
+INFO: End script --> 15/12/2023 22:27:03
+INFO: Executing script --> 15/12/2023 22:28:01
+INFO: End script --> 15/12/2023 22:28:03
+INFO: Executing script --> 15/12/2023 22:29:01
+INFO: End script --> 15/12/2023 22:29:04
+INFO: Executing script --> 15/12/2023 22:30:01
+INFO: End script --> 15/12/2023 22:30:03
+INFO: Executing script --> 15/12/2023 22:31:01
+INFO: End script --> 15/12/2023 22:31:03
+INFO: Executing script --> 15/12/2023 22:32:01
+INFO: End script --> 15/12/2023 22:32:03
+INFO: Executing script --> 15/12/2023 22:33:02
+INFO: End script --> 15/12/2023 22:33:04
+INFO: Executing script --> 15/12/2023 22:34:01
+INFO: End script --> 15/12/2023 22:34:03
+INFO: Executing script --> 15/12/2023 22:35:01
+INFO: End script --> 15/12/2023 22:35:03
+INFO: Executing script --> 15/12/2023 22:36:01
+INFO: End script --> 15/12/2023 22:36:03
+INFO: Executing script --> 15/12/2023 22:37:02
+INFO: End script --> 15/12/2023 22:37:04
+INFO: Executing script --> 15/12/2023 22:38:01
+INFO: End script --> 15/12/2023 22:38:03
+INFO: Executing script --> 15/12/2023 22:39:01
+INFO: End script --> 15/12/2023 22:39:04
+INFO: Executing script --> 15/12/2023 22:40:01
+INFO: End script --> 15/12/2023 22:40:03
+INFO: Executing script --> 15/12/2023 22:41:01
+INFO: End script --> 15/12/2023 22:41:03
+INFO: Executing script --> 15/12/2023 22:42:01
+INFO: End script --> 15/12/2023 22:42:03
+INFO: Executing script --> 15/12/2023 22:43:02
+INFO: End script --> 15/12/2023 22:43:04
+INFO: Executing script --> 15/12/2023 22:44:01
+INFO: End script --> 15/12/2023 22:44:03
+INFO: Executing script --> 15/12/2023 22:45:01
+INFO: End script --> 15/12/2023 22:45:03
+INFO: Executing script --> 15/12/2023 22:46:01
+INFO: End script --> 15/12/2023 22:46:03
+INFO: Executing script --> 15/12/2023 22:47:01
+INFO: End script --> 15/12/2023 22:47:04
+INFO: Executing script --> 15/12/2023 22:48:01
+INFO: End script --> 15/12/2023 22:48:03
+INFO: Executing script --> 15/12/2023 22:49:01
+INFO: End script --> 15/12/2023 22:49:03
+INFO: Executing script --> 15/12/2023 22:50:01
+INFO: End script --> 15/12/2023 22:50:03
+INFO: Executing script --> 15/12/2023 22:51:01
+INFO: End script --> 15/12/2023 22:51:04
+INFO: Executing script --> 15/12/2023 22:52:01
+INFO: End script --> 15/12/2023 22:52:03
+INFO: Executing script --> 15/12/2023 22:53:01
+INFO: End script --> 15/12/2023 22:53:03
+INFO: Executing script --> 15/12/2023 22:54:01
+INFO: End script --> 15/12/2023 22:54:03
+INFO: Executing script --> 15/12/2023 22:55:01
+INFO: End script --> 15/12/2023 22:55:04
+INFO: Executing script --> 15/12/2023 22:56:01
+INFO: End script --> 15/12/2023 22:56:03
+INFO: Executing script --> 15/12/2023 22:57:01
+INFO: End script --> 15/12/2023 22:57:03
+INFO: Executing script --> 15/12/2023 22:58:01
+INFO: End script --> 15/12/2023 22:58:04
+INFO: Executing script --> 15/12/2023 22:59:01
+INFO: End script --> 15/12/2023 22:59:03
+INFO: Executing script --> 15/12/2023 23:00:01
+INFO: End script --> 15/12/2023 23:00:03
+INFO: Executing script --> 15/12/2023 23:01:01
+INFO: End script --> 15/12/2023 23:01:03
+INFO: Executing script --> 15/12/2023 23:02:01
+INFO: End script --> 15/12/2023 23:02:04
+INFO: Executing script --> 15/12/2023 23:03:01
+INFO: End script --> 15/12/2023 23:03:03
+INFO: Executing script --> 15/12/2023 23:04:01
+INFO: End script --> 15/12/2023 23:04:03
+INFO: Executing script --> 15/12/2023 23:05:01
+INFO: End script --> 15/12/2023 23:05:04
+INFO: Executing script --> 15/12/2023 23:06:01
+INFO: End script --> 15/12/2023 23:06:03
+INFO: Executing script --> 15/12/2023 23:07:01
+INFO: End script --> 15/12/2023 23:07:03
+INFO: Executing script --> 15/12/2023 23:08:01
+INFO: End script --> 15/12/2023 23:08:03
+INFO: Executing script --> 15/12/2023 23:09:01
+INFO: End script --> 15/12/2023 23:09:04
+INFO: Executing script --> 15/12/2023 23:10:01
+INFO: End script --> 15/12/2023 23:10:03
+INFO: Executing script --> 15/12/2023 23:11:01
+INFO: End script --> 15/12/2023 23:11:03
+INFO: Executing script --> 15/12/2023 23:12:01
+INFO: End script --> 15/12/2023 23:12:03
+INFO: Executing script --> 15/12/2023 23:13:01
+INFO: End script --> 15/12/2023 23:13:04
+INFO: Executing script --> 15/12/2023 23:14:01
+INFO: End script --> 15/12/2023 23:14:03
+INFO: Executing script --> 15/12/2023 23:15:01
+INFO: End script --> 15/12/2023 23:15:03
+INFO: Executing script --> 15/12/2023 23:16:01
+INFO: End script --> 15/12/2023 23:16:03
+INFO: Executing script --> 15/12/2023 23:17:02
+INFO: End script --> 15/12/2023 23:17:04
+INFO: Executing script --> 15/12/2023 23:18:01
+INFO: End script --> 15/12/2023 23:18:03
+INFO: Executing script --> 15/12/2023 23:19:01
+INFO: End script --> 15/12/2023 23:19:03
+INFO: Executing script --> 15/12/2023 23:20:01
+INFO: End script --> 15/12/2023 23:20:03
+INFO: Executing script --> 15/12/2023 23:21:01
+INFO: End script --> 15/12/2023 23:21:04
+INFO: Executing script --> 15/12/2023 23:22:01
+INFO: End script --> 15/12/2023 23:22:03
+INFO: Executing script --> 15/12/2023 23:23:01
+INFO: End script --> 15/12/2023 23:23:03
+INFO: Executing script --> 15/12/2023 23:24:01
+INFO: End script --> 15/12/2023 23:24:03
+INFO: Executing script --> 15/12/2023 23:25:01
+INFO: End script --> 15/12/2023 23:25:04
+INFO: Executing script --> 15/12/2023 23:26:01
+INFO: End script --> 15/12/2023 23:26:03
+INFO: Executing script --> 15/12/2023 23:27:01
+INFO: End script --> 15/12/2023 23:27:03
+INFO: Executing script --> 15/12/2023 23:28:01
+INFO: End script --> 15/12/2023 23:28:03
+INFO: Executing script --> 15/12/2023 23:29:01
+INFO: End script --> 15/12/2023 23:29:03
+INFO: Executing script --> 15/12/2023 23:30:01
+INFO: End script --> 15/12/2023 23:30:03
+INFO: Executing script --> 15/12/2023 23:31:01
+INFO: End script --> 15/12/2023 23:31:03
+INFO: Executing script --> 15/12/2023 23:32:01
+INFO: End script --> 15/12/2023 23:32:03
+INFO: Executing script --> 15/12/2023 23:33:01
+INFO: End script --> 15/12/2023 23:33:03
+INFO: Executing script --> 15/12/2023 23:34:02
+INFO: End script --> 15/12/2023 23:34:04
+INFO: Executing script --> 15/12/2023 23:35:01
+INFO: End script --> 15/12/2023 23:35:03
+INFO: Executing script --> 16/12/2023 21:56:47
+ERROR: Conecting to SMTP  [Errno -3] Temporary failure in name resolution --> 16/12/2023 21:56:52
+INFO: Executing script --> 16/12/2023 21:57:01
+ERROR: Conecting to SMTP  [Errno -3] Temporary failure in name resolution --> 16/12/2023 21:57:02
