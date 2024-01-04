@@ -622,3 +622,27 @@ INFO: Executing script --> 28/12/2023 13:35:01
 INFO: End script --> 28/12/2023 13:35:03
 INFO: Executing script --> 28/12/2023 13:36:01
 INFO: End script --> 28/12/2023 13:36:03
+ERROR: Attaching image  [Errno 2] No such file or directory: 'ingreso_ot.png'  --> 04/01/2024 14:51:04
+OK:  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 14:51:06
+OK: Updating status  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 14:51:06
+ERROR: Attaching image  [Errno 2] No such file or directory: './ingreso_ot.png'  --> 04/01/2024 14:54:03
+OK:  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 14:54:04
+OK: Updating status  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 14:54:04
+OK:  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 15:00:05
+OK: Updating status  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 15:00:05
+OK:  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 15:01:05
+OK: Updating status  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 15:01:05
+OK:  OT 207068   ['frunge@gmail.com', 'jmstanley@imiflex.cl', 'mvalenzuela@imiflex.cl', 'cgutierrez@imiflex.cl']   04/01/2024 15:02:05
+OK: Updating status  OT 207068   ['frunge@gmail.com', 'jmstanley@imiflex.cl', 'mvalenzuela@imiflex.cl', 'cgutierrez@imiflex.cl']   04/01/2024 15:02:05
+OK:  OT 207081   ['frunge@gmail.com', 'jmstanley@imiflex.cl', 'mvalenzuela@imiflex.cl', 'cgutierrez@imiflex.cl']   04/01/2024 15:07:05
+OK: Updating status  OT 207081   ['frunge@gmail.com', 'jmstanley@imiflex.cl', 'mvalenzuela@imiflex.cl', 'cgutierrez@imiflex.cl']   04/01/2024 15:07:05
+OK:  OT 207003   ['frunge@gmail.com', 'jmstanley@imiflex.cl', 'mvalenzuela@imiflex.cl', 'cgutierrez@imiflex.cl']   04/01/2024 15:09:05
+OK: Updating status  OT 207003   ['frunge@gmail.com', 'jmstanley@imiflex.cl', 'mvalenzuela@imiflex.cl', 'cgutierrez@imiflex.cl']   04/01/2024 15:09:05
+OK:  OT 207004   ['frunge@gmail.com', 'jmstanley@imiflex.cl', 'mvalenzuela@imiflex.cl', 'cgutierrez@imiflex.cl']   04/01/2024 15:09:07
+OK: Updating status  OT 207004   ['frunge@gmail.com', 'jmstanley@imiflex.cl', 'mvalenzuela@imiflex.cl', 'cgutierrez@imiflex.cl']   04/01/2024 15:09:07
+OK:  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 15:10:05
+OK: Updating status  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 15:10:05
+OK:  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 15:12:04
+OK: Updating status  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 15:12:04
+OK:  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 15:14:05
+OK: Updating status  OT 207075   ['frunge@gmail.com', 'isaac@smartgraphics.cl']   04/01/2024 15:14:05

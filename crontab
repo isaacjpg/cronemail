@@ -1,4 +1,4 @@
 # START CRON JOB
-* * * * * /usr/local/bin/python /app/main.py > /proc/1/fd/1 2>/proc/1/fd/2 >> /var/log/cron.log
+* * * * * /usr/local/bin/python /app/main_image.py > /proc/1/fd/1 2>/proc/1/fd/2 >> /var/log/cron.log
 # END CRON JOB
 

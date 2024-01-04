@@ -19,5 +19,7 @@ services:
     restart: always
     volumes:
       - ./log:/var/log
+      - ./images:/images
+    
   
     

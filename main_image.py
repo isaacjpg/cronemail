@@ -154,11 +154,11 @@ def main():
 
             #Open de files
             if d[1]=='Facturado':
-                fp = open('despacho.png', 'rb')
-            elif d[1]=='Planificado':
-                fp = open('planificacion.png', 'rb')
+                fp = open('/images/despacho.png', 'rb')
+            elif d[1]=='Planificacion':
+                fp = open('/images/planificacion.png', 'rb')
             else:
-                fp = open('ingreso_ot.png', 'rb')
+                fp = open('/images/ingreso_ot.png', 'rb')
             msgImage = MIMEImage(fp.read())
             fp.close()
 
