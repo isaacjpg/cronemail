@@ -5,6 +5,7 @@ import os
 import smtplib, ssl
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from email.mime.image import MIMEImage
 import mysql.connector
 from datetime import datetime
 from dotenv import load_dotenv
@@ -72,11 +73,21 @@ def main():
         #16 Orden de Compra
         #17 Unidad de Medida
 
-        message = MIMEMultipart("alternative")
-        message["Subject"] = "{} | Estado de Ordenes de Pedido ".format(os.environ['MAIL_DEFAULT_FROM_NAME'])
-        message["From"] = os.environ['MAIL_DEFAULT_FROM']
-        message["To"] = d[14]
-        message["Cc"] = d[15]
+        # message = MIMEMultipart("alternative")
+        # message["Subject"] = "{} | Estado de Ordenes de Pedido ".format(os.environ['MAIL_DEFAULT_FROM_NAME'])
+        # message["From"] = os.environ['MAIL_DEFAULT_FROM']
+        # message["To"] = d[14]
+        # message["Cc"] = d[15]
+
+        msgRoot = MIMEMultipart('related')
+        msgRoot['Subject'] = "{} | Estado de Ordenes de Pedido ".format(os.environ['MAIL_DEFAULT_FROM_NAME'])
+        msgRoot['From'] = os.environ['MAIL_DEFAULT_FROM']
+        msgRoot['To'] = d[14]
+        msgRoot['Cc'] = d[15]
+        msgRoot.preamble = 'This is a multi-part message in MIME format.'
+        msgAlternative = MIMEMultipart('alternative')
+        msgRoot.attach(msgAlternative)
+
 
         html_context={
             'o_compra':d[16] if d[16] else '---',
@@ -128,24 +139,49 @@ def main():
                     Ante cualquier duda referente a su Orden favor contactarse con <a href="mailto:usc@imiflex.cl">usc@imiflex.cl</a>.
                     <br>
                     <br>
+                    <img src="cid:image1">
                 </p>
             </body>
         </html>
         """.format(**html_context)
 
+
+
+        msgAlternative.attach(MIMEText(text, 'plain'))
+        msgAlternative.attach(MIMEText(html, 'html'))
+
+        try:
+
+            #Open de files
+            if d[1]=='Facturado':
+                fp = open('despacho.png', 'rb')
+            elif d[1]=='Planificado':
+                fp = open('planificacion.png', 'rb')
+            else:
+                fp = open('ingreso_ot.png', 'rb')
+            msgImage = MIMEImage(fp.read())
+            fp.close()
+
+            # Define the image's ID as referenced above
+            msgImage.add_header('Content-ID', '<image1>')
+            msgRoot.attach(msgImage)
+        except Exception as e:
+            print('ERROR: Attaching image ',e,' -->',datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
+
+
         # Turn these into plain/html MIMEText objects
-        part1 = MIMEText(text, "plain")
-        part2 = MIMEText(html, "html")
+        # part1 = MIMEText(text, "plain")
+        # part2 = MIMEText(html, "html")
 
         # Add HTML/plain-text parts to MIMEMultipart message
         # The email client will try to render the last part first
-        message.attach(part1)
-        message.attach(part2)
+        # message.attach(part1)
+        # message.attach(part2)
 
         rctp=d[14].split(',')+d[15].split(',')
 
         try:
-            server.sendmail(os.environ['MAIL_DEFAULT_FROM'], rctp, message.as_string())
+            server.sendmail(os.environ['MAIL_DEFAULT_FROM'], rctp, msgRoot.as_string())
             print('OK: ','OT',d[0],' ',rctp,' ',datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
         except Exception as e:
             print('ERROR: Sending email ',e,' OT',d[0],' ',rctp,'-->',datetime.now().strftime("%d/%m/%Y %H:%M:%S"))
